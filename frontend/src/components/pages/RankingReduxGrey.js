@@ -48,7 +48,7 @@ const options1 = [
   { value: 'All categories', label: 'All categories' },
   { value: 'Art', label: 'Art' },
   { value: 'Music', label: 'Music' },
-  { value: 'Domain Names', label: 'Domain Names' },
+  { value: 'Tickets', label: 'Tickets' },
   { value: 'Virtual World', label: 'Virtual World' },
   { value: 'Trading Cards', label: 'Trading Cards' },
   { value: 'Collectibles', label: 'Collectibles' },

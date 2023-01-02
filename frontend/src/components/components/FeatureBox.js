@@ -17,7 +17,7 @@ const fadeInUp = keyframes`
 
 const featurebox= () => (
  <div className='row'>
-            <div className="col-lg-4 col-md-6 mb-3">
+            <div className="col-lg-5 col-md-6 mb-3">
                 <div className="feature-box f-boxed style-3">
                   <Reveal className='onStep' keyframes={fadeInUp} delay={0} duration={600} triggerOnce>
                     <i className="bg-color-2 i-boxed icon_wallet"></i>
@@ -27,7 +27,7 @@ const featurebox= () => (
                         <h4 className="">Connect your wallet</h4>
                       </Reveal>
                       <Reveal className='onStep' keyframes={fadeInUp} delay={200} duration={600} triggerOnce>
-                        <p className="">Connect your cryptocurrency wallet in the upper right corner. Remember to sign into your wallet before clicking on the Connect Wallet button and make sure it’s on the BSC Network.</p>
+                        <p className="">Connect your cryptocurrency wallet in the upper right corner. Remember to sign into your wallet before clicking on the Connect Wallet button and make sure it is on the BSC Network.</p>
                       </Reveal>
                     </div>
                     <i className="wm icon_wallet"></i>
@@ -51,7 +51,7 @@ const featurebox= () => (
               </div>
           </div> */}
 
-          <div className="col-lg-4 col-md-6 mb-3">
+          <div className="col-lg-5 col-md-6 mb-3">
               <div className="feature-box f-boxed style-3">
                 <Reveal className='onStep' keyframes={fadeInUp} delay={0} duration={600} triggerOnce>
                   <i className=" bg-color-2 i-boxed icon_tags_alt"></i>
@@ -61,7 +61,7 @@ const featurebox= () => (
                       <h4 className="">Sell your NFT's</h4>
                     </Reveal>
                     <Reveal className='onStep' keyframes={fadeInUp} delay={200} duration={600} triggerOnce>
-                      <p className="">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.</p>
+                      <p className="">Sell NFT</p>
                     </Reveal>
                   </div>
                   <i className="wm icon_tags_alt"></i>

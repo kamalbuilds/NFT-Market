@@ -18,13 +18,13 @@ const catgor= () => (
     <div className="col-md-2 col-sm-4 col-6 mb-3">
         <Link className="icon-box style-2 rounded" to="">
             <i className="fa fa-search"></i>
-            <span>Domain Names</span>
+            <span>Tickets</span>
         </Link>
     </div>
     <div className="col-md-2 col-sm-4 col-6 mb-3">
         <Link className="icon-box style-2 rounded" to="">
             <i className="fa fa-globe"></i>
-            <span>Virtual Worlds</span>
+            <span>Metaverse</span>
         </Link>
     </div>
     <div className="col-md-2 col-sm-4 col-6 mb-3">

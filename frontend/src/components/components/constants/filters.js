@@ -9,7 +9,7 @@ export const categories = [
     },
     {
         value: 'domain_names',
-        label: 'Domain Names'
+        label: 'Tickets'
     },
     {
         value: 'virtual_world',

@@ -5,20 +5,20 @@ const footer= () => (
   <footer className="footer-light">
             <div className="container">
                 <div className="row">
-                    <div className="col-md-3 col-sm-6 col-xs-1">
+                    <div className="col-md-4 col-sm-6 col-xs-1">
                         <div className="widget">
                             <h5>Marketplace</h5>
                             <ul>
                                 <li><Link to="">All NFTs</Link></li>
                                 <li><Link to="">Art</Link></li>
                                 <li><Link to="">Music</Link></li>
-                                <li><Link to="">Domain Names</Link></li>
-                                <li><Link to="">Virtual World</Link></li>
+                                <li><Link to="">Tickets</Link></li>
+                                <li><Link to="">Metaverse</Link></li>
                                 <li><Link to="">Collectibles</Link></li>
                             </ul>
                         </div>
                     </div>
-                    <div className="col-md-3 col-sm-6 col-xs-1">
+                    <div className="col-md-4 col-sm-6 col-xs-1">
                         <div className="widget">
                             <h5>Resources</h5>
                             <ul>
@@ -31,7 +31,7 @@ const footer= () => (
                             </ul>
                         </div>
                     </div>
-                    <div className="col-md-3 col-sm-6 col-xs-1">
+                    {/* <div className="col-md-3 col-sm-6 col-xs-1">
                         <div className="widget">
                             <h5>Community</h5>
                             <ul>
@@ -43,7 +43,7 @@ const footer= () => (
                                 <li><Link to="">Mailing List</Link></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="col-md-3 col-sm-6 col-xs-1">
                         <div className="widget">
                             <h5>Newsletter</h5>
@@ -73,17 +73,8 @@ const footer= () => (
                                         <img alt="" className="f-logo d-1" src="./img/logo.png" />
                                         <img alt="" className="f-logo d-3" src="./img/logo-2-light.png" />
                                         <img alt="" className="f-logo d-4" src="./img/logo-3.png" />
-                                        <span className="copy">&copy; Copyright 2021 - Gigaland by Designesia</span>
+                                        <span className="copy">&copy; Copyright 2023 - SnazzyZoo is a <Link to="https://linkitupdev.com">linkitup service</Link></span>
                                     </span>
-                                </div>
-                                <div className="de-flex-col">
-                                    <div className="social-icons">
-                                        <span onClick={()=> window.open("", "_self")}><i className="fa fa-facebook fa-lg"></i></span>
-                                        <span onClick={()=> window.open("", "_self")}><i className="fa fa-twitter fa-lg"></i></span>
-                                        <span onClick={()=> window.open("", "_self")}><i className="fa fa-linkedin fa-lg"></i></span>
-                                        <span onClick={()=> window.open("", "_self")}><i className="fa fa-pinterest fa-lg"></i></span>
-                                        <span onClick={()=> window.open("", "_self")}><i className="fa fa-rss fa-lg"></i></span>
-                                    </div>
                                 </div>
                             </div>
                         </div>

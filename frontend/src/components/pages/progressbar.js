@@ -75,7 +75,7 @@ const progress= () => (
 
             <div className="col-md-4">
                 <div className="skill-bar style-2">
-                    <h5>Domain Names</h5>
+                    <h5>Tickets</h5>
                     <div className="de-progress">
                         <div className="progress-bar" style={{width: `75%` }}>
                         </div>
@@ -83,7 +83,7 @@ const progress= () => (
                 </div>
 
                 <div className="skill-bar style-2">
-                    <h5>Virtual Worlds</h5>
+                    <h5>Metaverse</h5>
                     <div className="de-progress">
                         <div className="progress-bar" style={{width: `80%` }}>
                         </div>
