@@ -117,7 +117,7 @@ const Header = function ({ className }) {
                 <img src="/img/logo-2.png" className="img-fluid d-3" alt="#" />
                 <img src="/img/logo-3.png" className="img-fluid d-4" alt="#" />
                 <img
-                  src="/img/logo-light.png"
+                  src="/img/snazzy.png"
                   className="img-fluid d-none"
                   alt="#"
                 />

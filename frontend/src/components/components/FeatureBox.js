@@ -34,22 +34,7 @@ const featurebox= () => (
                 </div>
             </div>
 
-          {/* <div className="col-lg-4 col-md-6 mb-3">
-              <div className="feature-box f-boxed style-3">
-                <Reveal className='onStep' keyframes={fadeInUp} delay={0} duration={600} triggerOnce>
-                  <i className=" bg-color-2 i-boxed icon_cloud-upload_alt"></i>
-                </Reveal>
-                  <div className="text">
-                    <Reveal className='onStep' keyframes={fadeInUp} delay={100} duration={600} triggerOnce>
-                      <h4 className="">Add your NFT's</h4>
-                    </Reveal>
-                    <Reveal className='onStep' keyframes={fadeInUp} delay={200} duration={600} triggerOnce>
-                      <p className="">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.</p>
-                    </Reveal>
-                  </div>
-                  <i className="wm icon_cloud-upload_alt"></i>
-              </div>
-          </div> */}
+
 
           <div className="col-lg-5 col-md-6 mb-3">
               <div className="feature-box f-boxed style-3">
@@ -61,7 +46,7 @@ const featurebox= () => (
                       <h4 className="">Sell your NFT's</h4>
                     </Reveal>
                     <Reveal className='onStep' keyframes={fadeInUp} delay={200} duration={600} triggerOnce>
-                      <p className="">Sell NFT</p>
+                      <p className="">Ready to turn your NFTs into cash? Our platform makes it easy to list and sell your NFTs to a wide audience of potential buyers, giving you the opportunity to profit from your digital art.</p>
                     </Reveal>
                   </div>
                   <i className="wm icon_tags_alt"></i>

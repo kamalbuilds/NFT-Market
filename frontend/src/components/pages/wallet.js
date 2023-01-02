@@ -55,7 +55,7 @@ const wallet= () => (
       <div className='container'>
         <div className='row m-10-hor'>
           <div className='col-12'>
-            <h1 className='text-center'>Wallet</h1>
+            <h1 className='text-center'>Accepted Cryptocurrency</h1>
           </div>
         </div>
       </div>
